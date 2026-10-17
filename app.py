@@ -9,6 +9,7 @@ def home():
     return render_template_string("""
         <!DOCTYPE html>
         <html>
+        
         <head>
             <title>My Flask App</title>
         </head>
